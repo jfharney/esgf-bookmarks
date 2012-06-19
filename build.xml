@@ -7,8 +7,8 @@
 
 -->
 
-<project name="esg-srm" default="make" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
-  <property name="module" value="esg-srm" />
+<project name="esgf-bookmarks" default="make" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
+  <property name="module" value="esgf-bookmarks" />
   <property name="organization" value="Earth Systems Grid Federation" />
 
 <!--

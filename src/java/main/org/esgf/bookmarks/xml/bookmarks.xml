@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+  <bookmark>
+    <name>name1</name>
+    <openId>openid1</openId>
+    <description>description1</description>
+    <searchConstraints>searchconstraints1</searchConstraints>
+  </bookmark>
+  <bookmark>
+    <name>name1</name>
+    <openId>openid2</openId>
+    <description>description3</description>
+    <searchConstraints>searchconstraints4</searchConstraints>
+  </bookmark>
+  <bookmark>
+    <name>name11</name>
+    <openId>openid2</openId>
+    <description>description13</description>
+    <searchConstraints>searchconstraints14</searchConstraints>
+  </bookmark>
+  <bookmark>
+    <name>name11</name>
+    <openId>openid22</openId>
+    <description>description13</description>
+    <searchConstraints>searchconstraints14</searchConstraints>
+  </bookmark>
+</bookmarks>
